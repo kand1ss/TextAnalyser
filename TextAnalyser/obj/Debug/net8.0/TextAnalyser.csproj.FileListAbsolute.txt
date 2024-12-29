@@ -1,0 +1,12 @@
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\bin\Debug\net8.0\TextAnalyser.deps.json
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\bin\Debug\net8.0\TextAnalyser.dll
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\bin\Debug\net8.0\TextAnalyser.pdb
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\obj\Debug\net8.0\TextAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\obj\Debug\net8.0\TextAnalyser.AssemblyInfoInputs.cache
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\obj\Debug\net8.0\TextAnalyser.AssemblyInfo.cs
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\obj\Debug\net8.0\TextAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\obj\Debug\net8.0\TextAnalyser.dll
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\obj\Debug\net8.0\refint\TextAnalyser.dll
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\obj\Debug\net8.0\TextAnalyser.pdb
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\obj\Debug\net8.0\ref\TextAnalyser.dll
+C:\Users\kand1s\Desktop\C# Projects\TextAnalyser\TextAnalyser\obj\Debug\net8.0\TextAnalyser.sourcelink.json
